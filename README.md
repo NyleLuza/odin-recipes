@@ -1,0 +1,1 @@
+So far I have learned to create an HTML boiler plate. I learned the different types of aspects that you need to create a website and the syntax of it. Now I'll be learning more about github and creating a project.
